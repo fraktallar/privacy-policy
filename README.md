@@ -35,12 +35,4 @@ Sorularınız için: fraktalstudio@gmail.com
 Bu politika zaman zaman güncellenebilir. 
 Değişiklikler bu sayfada yayınlanacaktır.
 ```
-
-Repo oluşturduktan sonra GitHub Pages'i aktif et:
-- Repo → **Settings** → **Pages**
-- Source: **main branch**
-- **Save**
-
-URL şöyle olacak:
 ```
-https://fraktallar.github.io/privacy-policy/
