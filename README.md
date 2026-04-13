@@ -1,5 +1,9 @@
 # NetLog Gizlilik Politikası
 
+**Geliştirici:** Fraktal Studio  
+**Uygulama:** NetLog  
+**Son güncelleme:** 13 Nisan 2026
+
 Son güncelleme: 30 Mart 2026
 
 ## Genel Bakış
@@ -39,6 +43,12 @@ Değişiklikler bu sayfada yayınlanacaktır.
 
 
 # NetLog 隱私權政策
+
+**開發商：** Fractal Studio
+
+**應用程式：** NetLog
+
+**上次更新：** 2026年4月13日
 
 上次更新：2026 年 3 月 30 日
 
@@ -90,6 +100,12 @@ NetLog 僅收集和處理以下資料：
 
 
 # NetLog Privacy Policy
+
+**Developer:** Fractal Studio
+
+**Application:** NetLog
+
+**Last update:** April 13, 2026
 
 Last updated: March 30, 2026
 
